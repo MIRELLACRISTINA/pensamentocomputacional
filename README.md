@@ -1,1 +1,4 @@
 # pensamentocomputacional
+mirela
+kauane
+amanda
